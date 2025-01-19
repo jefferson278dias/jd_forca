@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html, body {
     height: 100%;
 }
@@ -28,7 +28,7 @@ button {
 }
 button:hover {
     background-color: #071983;
-=======
+}
 html, body {
     height: 100%;
 }
@@ -58,5 +58,4 @@ button {
 }
 button:hover {
     background-color: #071983;
->>>>>>> 0593c20d3c51439f8f2787abe2575513382052e1
 }
